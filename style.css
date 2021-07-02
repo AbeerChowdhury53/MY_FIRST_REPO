@@ -1,0 +1,92 @@
+#sarch{
+    margin: 10px;
+    width: 70%;
+    padding-left: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: Aquamarine;
+}
+
+
+#prsoninfo{ 
+    border-left: 5px solid red ;
+    margin-left: 10px;
+}
+
+h1{
+    color:rgb(0, 0, 0);
+    
+    margin-bottom: 0%;
+    padding-top: 20px ;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    
+}
+h3{
+    color: rgb(0, 0, 0);
+   
+    padding-bottom: 20px ;
+}
+body{
+    background-color: rgb(234, 255, 143);
+}
+
+
+
+
+#my_pic{
+    height: 250px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+#marg{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px;
+    width: 100%;
+    background-color:rgba(0, 132, 255, 0.541); ;
+}
+
+#career{
+    background-image: linear-gradient(to bottom right, rgba(2, 194, 228, 0.993), rgb(255, 255, 255));
+    padding: 5px ;
+}
+
+#pjob{
+    background-image: linear-gradient(to top left, rgba(2, 194, 228, 0.993), rgb(255, 255, 255));
+    padding: 5px ;
+}
+
+#cul{
+    font-style: italic;
+    color: blue;
+}
+
+#cskill{
+    background-image: linear-gradient(to right bottom, rgba(2, 228, 134, 0.993), rgb(255, 255, 255));
+    padding: 5px ;
+
+}
+
+#frm{
+    border: 3px solid rgb(151, 145, 145);
+    border-radius: 10px;
+    padding:10px;
+    background-image: radial-gradient(ellipse at top, #8cabf0, transparent);
+}
+
+table{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 3px solid grey;
+    width: 100%;
+    border-collapse: collapse;
+    background:rgb(240, 223, 231);
+}
+th, td{
+    border: 3px solid grey;
+}
+ 
